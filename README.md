@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thrisha22aib55
+- 👋 Hi, I’m @thrisharadhakrishnan
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning ARIFICIAL INTELLIGENCE AND DATA SCIENCE
 - 💞️ I’m looking to collaborate on MANY TECHNICAL PROJECTS
